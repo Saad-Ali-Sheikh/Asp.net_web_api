@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Asp.net_web_api/static/css/main.1eafafe9.chunk.css",
+    "main.js": "/Asp.net_web_api/static/js/main.5bb34e22.chunk.js",
+    "main.js.map": "/Asp.net_web_api/static/js/main.5bb34e22.chunk.js.map",
+    "runtime-main.js": "/Asp.net_web_api/static/js/runtime-main.ffdbe5be.js",
+    "runtime-main.js.map": "/Asp.net_web_api/static/js/runtime-main.ffdbe5be.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/Asp.net_web_api/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.c45dfff0.chunk.js": "/Asp.net_web_api/static/js/2.c45dfff0.chunk.js",
+    "static/js/2.c45dfff0.chunk.js.map": "/Asp.net_web_api/static/js/2.c45dfff0.chunk.js.map",
+    "static/js/3.f1690e94.chunk.js": "/Asp.net_web_api/static/js/3.f1690e94.chunk.js",
+    "static/js/3.f1690e94.chunk.js.map": "/Asp.net_web_api/static/js/3.f1690e94.chunk.js.map",
+    "index.html": "/Asp.net_web_api/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/Asp.net_web_api/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.1eafafe9.chunk.css.map": "/Asp.net_web_api/static/css/main.1eafafe9.chunk.css.map",
+    "static/js/2.c45dfff0.chunk.js.LICENSE.txt": "/Asp.net_web_api/static/js/2.c45dfff0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffdbe5be.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.c45dfff0.chunk.js",
+    "static/css/main.1eafafe9.chunk.css",
+    "static/js/main.5bb34e22.chunk.js"
+  ]
+}
